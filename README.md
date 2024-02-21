@@ -1,4 +1,4 @@
-# gpz_som
+# vk_som
 This is a collection of Self-Organizing Map geometry related python packages
 
 # License
